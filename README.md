@@ -1,10 +1,10 @@
 # JAXEquinox-Tutorial
 Tutorial-style exploration of neural network construction using JAX and Equinox, emphasizing functional programming and differentiable computing.
 
-## Overview
+:mag: ## Overview
 This repository contains tutorials and examples illustrating how to build neural networks using JAX and Equinox, with emphasis on functional programming, automatic differentiation, and performance-aware design.
 
-## Motivation
+## :key: Motivation
 Modern ML frameworks increasingly rely on differentiable programming paradigms. This project explores:
 * The differences and similarities of `jax.numpy` and `numpy`
 * Vectorized functions (`.vmap`)
@@ -13,7 +13,7 @@ Modern ML frameworks increasingly rely on differentiable programming paradigms. 
 * JIT compilation for performance
 The goal is to understand how and why these tools work, not just how to use them.
 
-## Install
+:gear: Install
 `pip install jax jaxlib equinox numpy`
 
 ## Usage
